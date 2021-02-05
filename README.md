@@ -1,4 +1,10 @@
-<div style="background-color:black">
+<style>
+  .background {
+    background-color:black;
+  }
+</style>
+
+<div class="background">
 ### Welcome to my GitHub <img alt="yoda" src="https://emojis.slackmojis.com/emojis/images/1480442309/1393/yoda.gif?1480442309"/>
 
 <p>I'm Tiago, fullstack developer from <img width="15px" alt="Portugal flag" src="https://raw.githubusercontent.com/yammadev/flag-icons/master/png/PT%402x.png"/>Portugal.
